@@ -40,7 +40,7 @@ class Company {
     }
 }
 
-const company = new company();
+const company = new Company();
 
 company.addEmployee(emp1);
 company.addEmployee(emp2);
