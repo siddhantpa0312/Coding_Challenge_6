@@ -40,12 +40,12 @@ class Company {
     }
 }
 
-const Company = new Company();
+const company = new company();
 
-Company.addEmployee(emp1);
-Company.addEmployee(emp2);
-Company.addEmployee(mngr1);
-Company.addEmployee(mngr2);
+company.addEmployee(emp1);
+company.addEmployee(emp2);
+company.addEmployee(mngr1);
+company.addEmployee(mngr2);
 
-Company.listEmployees();
+company.listEmployees();
 
